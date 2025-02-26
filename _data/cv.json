@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "O’Daine Barnes",
+    "label": "Merchant Services Officer",
+    "email": "odaine.barnes@hotmail.com",
+    "phone": "876-813-2449",
+    "location": {
+      "address": "11 Shortwood Lane",
+      "city": "Kingston 8",
+      "country": "Jamaica"
+    }
+  },
+  "work": [
+    {
+      "company": "First Global Bank Ltd",
+      "position": "Merchant Service Officer",
+      "startDate": "2019-08",
+      "highlights": [
+        "First Global Bank High Achiever Award 2019 - 2023",
+        "First Global Bank High Achievers Hall of Fame 2022"
+      ]
+    },
+    {
+      "company": "First Global Bank Ltd",
+      "position": "Operations Associate",
+      "startDate": "2018-07",
+      "endDate": "2019-08"
+    },
+    {
+      "company": "First Global Bank Ltd",
+      "position": "Tell (On Call)",
+      "startDate": "2015-04",
+      "endDate": "2018-07"
+    },
+    {
+      "company": "Shortwood Primary & Junior High",
+      "position": "Volunteer (IT Department)",
+      "startDate": "2015-01",
+      "endDate": "2015-03",
+      "summary": "Assisted in IT classes tasks and with troubleshooting."
+    },
+    {
+      "company": "Boon Communications",
+      "position": "IT Training Internship",
+      "startDate": "2014-08",
+      "endDate": "2014-09",
+      "summary": "5 weeks web development training."
+    },
+    {
+      "company": "MAA Electrical and Telephone Services",
+      "position": "Webmaster",
+      "startDate": "2014-03",
+      "endDate": "2014-07",
+      "summary": "Maintained and updated the company website."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Technology",
+      "area": "Computer Science and Information Technology",
+      "studyType": "Not completed",
+      "startDate": "2009"
+    },
+    {
+      "institution": "St. George's College",
+      "startDate": "2001",
+      "endDate": "2009"
+    }
+  ],
+  "achievements": {
+    "CAPE": {
+      "Computer Science Unit 1": "I",
+      "Computer Science Unit 2": "III",
+      "Biology Unit 1": "II",
+      "Biology Unit 2": "III",
+      "Communication Studies": "II",
+      "Caribbean Studies": "III",
+      "Sociology Unit 2": "III"
+    },
+    "CSEC": {
+      "English Language": "I",
+      "English Literature": "II",
+      "Biology": "I",
+      "Mathematics": "II",
+      "Chemistry": "II",
+      "Geography": "II",
+      "Information Technology": "II",
+      "Religious Education": "II"
+    }
+  },
+  "skills": [
+    {
+      "name": "Microsoft Office Suite",
+      "level": "Advanced"
+    },
+    {
+      "name": "Database Design",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Web Development and Programming",
+      "level": "Intermediate"
+    }
+  ],
+  "awards": [],
+  "certifications": [
+    {
+      "name": "2020 Python Bootcamp",
+      "date": "2020",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-337478d4-fe97-42ec-9ad9-26dbc98ab588/"
+    }
+  ],
+  "publication": []
+}
