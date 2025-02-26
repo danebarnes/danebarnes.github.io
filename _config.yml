@@ -30,8 +30,9 @@ twitter_username: jekyllrb
 github_username: danebarnes
 
 # Build settings
-theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default.
