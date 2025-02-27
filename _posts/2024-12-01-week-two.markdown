@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Planning the Server Infrastructure & Intranet"
+date: 2024-12-01
+---
+
+In week two of the project, our team continued working on the RFP response by refining our assigned sections and ensuring consistency in the document. I focused on drafting the cover letter and company profile, incorporating feedback from the group to create a professional and well-structured introduction to our proposal. Additionally, we finalized our meeting schedules to keep track of progress and ensure all members stayed aligned with the project timeline.
+
+This week reinforced my understanding of formal project documentation and the importance of collaborative editing and feedback in professional writing. I also improved my ability to communicate technical ideas clearly while maintaining a structured and professional tone. By the end of the week, we had made significant progress on the proposal, setting a strong foundation for the upcoming technical requirements and project breakdown phases.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Project Kickoff: Defining the Network Goals"
+date: 2024-11-24
+---
+
+During the first week of the ICT Application Project (IAP) Network Upgrade, our team focused on organizing our approach and dividing responsibilities. We began by setting up a WhatsApp group for communication and scheduled our first meeting to discuss the Request for Proposal (RFP). In this meeting, we outlined our strategy for responding to the RFP and agreed on a timeline for completing different sections of the project. My assigned tasks included working on the cover letter and company profile, which required researching how to structure a professional project proposal.
+
+Through this process, I gained a better understanding of project management in an IT environment, particularly how to collaborate effectively in a group setting. I also improved my ability to analyze and respond to an RFP, ensuring that our proposal aligns with the client's expectations. This initial phase was essential in laying the foundation for a structured and well-coordinated project execution.
