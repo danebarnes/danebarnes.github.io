@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Domain Configuration & Troubleshooting"
+date: 2025-01-26
+---
+
+This week focused on completing and troubleshooting the domain configuration for the IAP network. With the domain controller (IAP-DC01) already running and the iap.local domain created, the primary task was to ensure successful integration of client machines into the domain.
+
+From the onset of the project, there appeared to be a persistent issue when attempting to join the Windows 10 client to the domain. Despite confirming that the DHCP server was assigning IP addresses correctly and that nslookup could resolve iap.local and iap-dc01.iap.local, domain join attempts failed repeatedly. It remained unclear whether the issue was due to a misconfiguration on the virtual network or interference from my local network setup at home.
+
+By chance, I carried the laptop to work and retried the domain join process in a different network environment. To my surprise, the join was successful, suggesting that the problem may have stemmed from network restrictions or conflicts on my home setup rather than the server configuration itself.
+
+Following this breakthrough, I accessed Active Directory Users and Computers (ADUC) to begin structuring the domain. I created a new Organizational Unit (OU) named "IAP Users" and added four user accounts, each with a default password that was configured to be changed upon first logon. This setup mirrors standard domain user onboarding practices and enforces basic security protocols.
+
+This week’s work emphasized the importance of environment context in troubleshooting, especially with virtual networks. It also strengthened my familiarity with domain structuring and user management in Windows Server environments.
