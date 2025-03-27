@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Refining the Network & Server Roles"
+date: 2024-12-22
+---
+
+Week 5 was centered around clarifying the specific roles each server would play within the network design and ensuring that the planned architecture aligned with the project requirements. I revisited the technical expectations laid out in the RFP—particularly the need for a primarily Windows-based environment with separate roles for Active Directory (AD), DNS, DHCP, Web Server (for both intranet and internet), Exchange Server, and a Linux-based file server.
+
+This stage required deeper consideration of network segmentation, so I refined the proposed use of at least three subnets to separate internal services (like AD and file sharing), public-facing resources (like the web server), and client traffic. I also updated our network plan to include a firewall and DMZ configuration, with port forwarding strategies that would protect sensitive resources while allowing necessary external access. This week helped solidify my understanding of server specialization, network isolation, and the importance of role separation for performance and security.

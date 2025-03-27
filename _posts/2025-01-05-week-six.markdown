@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Refining the Network & Server Roles"
+date: 2025-01-05
+---
+
+In Week 6, I focused on re-evaluating the network architecture to ensure it would support all planned services while maintaining security, scalability, and proper segmentation. A key area of focus this week was the subnet design, as the RFP required a minimum of three subnets. After reviewing the proposed roles, I refined the network structure to include four distinct subnets, each serving a specific function:
+
+Subnet A – Infrastructure (192.168.10.0/24): Hosts core services such as the Domain Controller, DNS, DHCP, and file server.
+
+Subnet B – Client Devices (192.168.20.0/24): Used for desktop and laptop clients assigned to staff across departments.
+
+Subnet C – Wireless Access Point (192.168.30.0/24): Dedicated to devices connected via Wi-Fi, ensuring wireless traffic is isolated and managed securely.
+
+Subnet D – DMZ (192.168.40.0/24): Houses public-facing services like the intranet, web, and mail servers.
+
+I updated the IP address assignments to reflect this expanded structure and ensured that each subnet was properly segmented using internal routing and firewall rules. I also confirmed which services required static IPs and which ranges would be assigned dynamically via DHCP.
+
+This week, I gained hands-on insight into subnetting and address planning, including how to calculate usable host ranges, apply subnet masks, and configure address spaces for scalability. I also learned the importance of network segmentation in reducing security risks, optimizing traffic flow, and simplifying management. The experience of subnetting also helped to reinforce the concept of isolating traffic types to support both performance and security in enterprise networks.

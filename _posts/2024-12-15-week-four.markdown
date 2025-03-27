@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Optimizing Hardware & Software Requirements"
+date: 2024-12-15
+---
+
+In Week 4 of the IAP Network Project, I focused on refining and optimizing the hardware and software components that had been initially selected. This involved revisiting the server specifications and confirming they would meet the demands of a modernized, virtualized network environment. I reviewed the recommended Dell PowerEdge T150 specs (with Intel Xeon processors, RAID 1 SSDs, and 16–32GB RAM) and ensured these were capable of handling the roles required—such as domain control, DNS, DHCP, web hosting, and file storage.
+
+I also began preparing for the upcoming implementation phase, where a virtualized version of the network would be built on my local host machine using **VMware Workstation Player 17**. This planning was focused on creating a functioning lab environment that mirrors the fictional company’s infrastructure for demonstration and testing purposes. This week helped me better understand how to align virtual resources with project goals, ensuring that my host system could support the required server roles in a contained and manageable way.
