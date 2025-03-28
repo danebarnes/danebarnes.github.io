@@ -2,11 +2,11 @@
   "basics": {
     "name": "O’Daine Barnes",
     "label": "Merchant Services Officer",
-    "email": "odaine.barnes@hotmail.com",
+    "email": "odaine.barnes@gmail.com",
     "phone": "876-813-2449",
     "location": {
-      "address": "11 Shortwood Lane",
-      "city": "Kingston 8",
+      "address": "9 Waterloo Avenue",
+      "city": "Kingston 10",
       "country": "Jamaica"
     }
   },
@@ -28,7 +28,7 @@
     },
     {
       "company": "First Global Bank Ltd",
-      "position": "Tell (On Call)",
+      "position": "Teller",
       "startDate": "2015-04",
       "endDate": "2018-07"
     },
@@ -56,10 +56,17 @@
   ],
   "education": [
     {
+      "institution": "Vector Technology Institute",
+      "area": "Associate Degree in Computer Systems Technology",
+      "studyType": "In Progress",
+      "startDate": "2022"
+    },
+    {
       "institution": "University of Technology",
       "area": "Computer Science and Information Technology",
       "studyType": "Not completed",
-      "startDate": "2009"
+      "startDate": "2009",
+      "endDate": "2013"
     },
     {
       "institution": "St. George's College",
