@@ -68,6 +68,14 @@ Log "Script completed. Check the log file for details."
 This made the setup more efficient and repeatable. After completing the server setup, I accessed the Exchange Admin Center to create mailboxes for users who had been previously created in Active Directory (AD). Once the mailboxes were configured, I tested the functionality by using Outlook Web App (OWA) to send and receive emails between two domain-joined user accounts on a client machine. The successful exchange of emails confirmed that the integration was fully operational.
 In addition to Exchange, I installed and configured Microsoft IIS (Internet Information Services) on two separate servers—one for the internal intranet and the other for the public-facing website. This was done to simulate a real-world network architecture, with clear segmentation for improved security. The intranet server was assigned the IP 192.168.100.103, and the external web server used 192.168.100.104.
 
+<figure>
+    <video width="640" height="360" controls>
+        <source src="{{ '/assets/videos/demo_email.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <figcaption>Demonstration of email functionality using Outlook Web App (OWA).</figcaption>
+</figure>
+
 To ensure proper name resolution, custom DNS entries were created on the Domain Controller (DC). A new Forward Lookup Zone named iap.com was created for the external website, and a Host (A) record for www.iap.com was added, pointing to 192.168.100.104 with a corresponding PTR record. For the intranet, a Host (A) record named intranet.iap.local was added under the existing iap.local zone, pointing to 192.168.100.103. These configurations allowed users to access services seamlessly using standard and easy-to-remember URLs.
 
 With these DNS configurations in place and mailboxes set up, users on the domain could now access web and intranet services via the appropriate URLs—www.iap.com for the public website and intranet.iap.local for the internal portal. This enhanced usability and mirrored real-world enterprise environments.
