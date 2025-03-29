@@ -2,6 +2,7 @@
 layout: post
 title: "Building a Jekyll Portfolio for Documentation"
 date: 2025-02-16
+image: "assets/images/img_jekyll.png"
 ---
 
 This week, I focused on establishing a personal documentation site using Jekyll, which would serve as both a journal for the project progress and a personal portfolio of my skillset and body of work. The goal was to create a clean, professional, and organized web space to host weekly journal entries, highlight technical milestones, and showcase the skills developed throughout the IAP project.
