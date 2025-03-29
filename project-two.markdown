@@ -85,13 +85,8 @@ DNS Zones
 - **Platform**: Microsoft Exchange Server 2016
 - **Functionality**: Fully functional internal mail routing, mailbox creation via Exchange Admin Center
 
-<figure style="max-width: 100%; height: auto; text-align: center;">
-    <video style="width: 100%; height: auto;" controls>
-        <source src="{{ '/assets/videos/demo_email.mp4' | relative_url }}" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-    <figcaption>Demonstration of email functionality using Outlook Web App (OWA).</figcaption>
-</figure>
+![OWA]({{ site.baseurl }}/assets/images/img_dc.png "User Login for Outlook Web App")
+User Login for Outlook Web App (OWA)
 
 ---
 
