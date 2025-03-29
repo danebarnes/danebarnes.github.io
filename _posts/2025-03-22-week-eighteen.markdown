@@ -14,8 +14,8 @@ After completing the setup on the domain controller, I transitioned to a virtual
 
 Finally, I tested the RDP connection from the Windows 10 client. Using the Remote Desktop Connection (mstsc) tool, I entered the server's IP address, 192.168.100.212, along with the administrator credentials in the format IAP\Administrator. The connection was successful, confirming that RDP was correctly enabled and functional on IAP-DC01.
 
-<figure>
-    <video width="640" height="360" controls>
+<figure style="max-width: 100%; height: auto; text-align: center;">
+    <video style="width: 100%; height: auto;" controls>
         <source src="{{ '/assets/videos/demo_remote.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
     </video>

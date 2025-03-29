@@ -68,8 +68,8 @@ Log "Script completed. Check the log file for details."
 This made the setup more efficient and repeatable. After completing the server setup, I accessed the Exchange Admin Center to create mailboxes for users who had been previously created in Active Directory (AD). Once the mailboxes were configured, I tested the functionality by using Outlook Web App (OWA) to send and receive emails between two domain-joined user accounts on a client machine. The successful exchange of emails confirmed that the integration was fully operational.
 In addition to Exchange, I installed and configured Microsoft IIS (Internet Information Services) on two separate servers—one for the internal intranet and the other for the public-facing website. This was done to simulate a real-world network architecture, with clear segmentation for improved security. The intranet server was assigned the IP 192.168.100.103, and the external web server used 192.168.100.104.
 
-<figure>
-    <video width="640" height="360" controls>
+<figure style="max-width: 100%; height: auto; text-align: center;">
+    <video style="width: 100%; height: auto;" controls>
         <source src="{{ '/assets/videos/demo_email.mp4' | relative_url }}" type="video/mp4">
         Your browser does not support the video tag.
     </video>

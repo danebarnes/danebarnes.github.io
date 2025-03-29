@@ -14,4 +14,10 @@ By chance, I carried the laptop to work and retried the domain join process in a
 
 Following this breakthrough, I accessed Active Directory Users and Computers (ADUC) to begin structuring the domain. I created a new Organizational Unit (OU) named "IAP Users" and added four user accounts, each with a default password that was configured to be changed upon first logon. This setup mirrors standard domain user onboarding practices and enforces basic security protocols.
 
+![Ping Test]({{ site.baseurl }}/assets/images/img_ping_dc.png "Ping Test")
+Ping Test of Domain Controller
+
+![DNS Test]({{ site.baseurl }}/assets/images/img_dns_test.png "DNS Test")
+Testing Forward and Reverse Lookup on Client
+
 This week’s work emphasized the importance of environment context in troubleshooting, especially with virtual networks. It also strengthened my familiarity with domain structuring and user management in Windows Server environments.

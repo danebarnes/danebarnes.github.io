@@ -8,4 +8,7 @@ This week’s focus was on expanding the network infrastructure by adding a Linu
 
 Once the server was operational, I proceeded to install and configure Samba to enable file sharing between the Linux server and Windows clients on the domain. A single shared directory was created with the necessary permissions, and Samba was configured to support user-level security. A Samba user account was also added to simulate file access from domain machines. Connectivity and functionality were verified by mapping the shared folder from the Windows 10 client, which confirmed that file sharing was working as expected.
 
+![Samba]({{ site.baseurl }}/assets/images/img_act_samba.png "Samba")
+Samba Active on Linux File Server
+
 This week provided valuable experience in Linux server deployment, network setup, and the integration of Linux-based services into a Windows environment—an essential skill in managing mixed-OS networks.
