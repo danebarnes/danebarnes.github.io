@@ -195,6 +195,22 @@ Shared Drives
 - Email routing functioned internally
 - File server permissions aligned with AD security groups
 
+<figure style="max-width: 100%; height: auto; text-align: center;">
+    <video style="width: 100%; height: auto;" controls>
+        <source src="{{ '/assets/videos/demo_email.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <figcaption>Demonstration of email functionality using Outlook Web App (OWA).</figcaption>
+</figure>
+
+<figure style="max-width: 100%; height: auto; text-align: center;">
+    <video style="width: 100%; height: auto;" controls>
+        <source src="{{ '/assets/videos/demo_remote.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <figcaption>Demonstration of Remote Desktop.</figcaption>
+</figure>
+
 ---
 
 ## 📌 Conclusion
