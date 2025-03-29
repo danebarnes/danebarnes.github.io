@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Project - Jekyll"
+title: "Project: Jekyll"
 permalink: /project-jekyll/
 image: "assets/images/img_proj_one.jpg"
 ---
@@ -11,7 +11,7 @@ Welcome to my portfolio project hosted on GitHub Pages. This repository showcase
 
 I created my [GitHub account](https://github.com/danebarnes) back in **2014** when I was first introduced to **version control**, especially for managing code and web development projects. I learned to use **Git**, a command-line tool created by Linus Torvalds, which allows developers to track changes, collaborate with others, and revert back to previous versions of their projects. Git is like a time machine for your code—essential for any serious developer.
 
-### Setting Up Jekyll Locally
+### 💻 Setting Up Jekyll Locally
 
 To begin building my portfolio site, I installed **Jekyll** on my computer using the **recommended installer** from the [official Jekyll website](https://jekyllrb.com/docs/installation/). Once installed, I ran the following command in the terminal to scaffold a new project:
 
@@ -28,7 +28,7 @@ Jekyll sites are built using **Markdown** and **YAML**:
 
 Jekyll is both beginner-friendly and powerful. It enables users to launch a simple website quickly, yet provides plenty of flexibility and customization options. Thanks to its strong community, there are many themes available. I chose the [Basically Basic theme](https://github.com/mmistakes/jekyll-theme-basically-basic?tab=readme-ov-file#skin) by [@mmistakes](https://github.com/mmistakes), which perfectly matched my vision—a minimalist theme that places the focus on content.
 
-### Hosting with GitHub Pages
+### 🚀 Hosting with GitHub Pages
 
 I decided to host my portfolio on **GitHub Pages**, which allows you to serve static websites directly from a GitHub repository. Since I had prior experience with Git, setting this up was straightforward.
 
@@ -37,7 +37,7 @@ I decided to host my portfolio on **GitHub Pages**, which allows you to serve st
 I navigated to my project folder and initialized Git from the command line:
 
 ```bash
-cd odiane-portfolio
+cd odaine-portfolio
 git init
 ```
 
@@ -86,3 +86,7 @@ Finally, I went into the GitHub repository settings, scrolled to the **GitHub Pa
 ---
 
 This project demonstrates my ability to use developer tools like **Git**, **Jekyll**, and **GitHub** to build, customize, and deploy a professional website. It’s a testament to my journey in web development and version control, and a window into the kinds of tools and workflows I use daily.
+
+---
+
+**[← Back to Portfolio](/)**
