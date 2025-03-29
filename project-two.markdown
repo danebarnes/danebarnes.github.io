@@ -2,7 +2,7 @@
 layout: page
 title: "Project: IAP"
 permalink: /project-iap/
-image: "assets/images/main.jpg"
+image: "assets/images/img_smg_head.png"
 ---
 
 # Virtual Network Setup

@@ -16,7 +16,7 @@ I created my [GitHub account](https://github.com/danebarnes) back in **2014** wh
 To begin building my portfolio site, I installed **Jekyll** on my computer using the **recommended installer** from the [official Jekyll website](https://jekyllrb.com/docs/installation/). Once installed, I ran the following command in the terminal to scaffold a new project:
 
 ```bash
-jekyll new odiane-portfolio
+jekyll new odaine-portfolio
 ```
 
 This simple command created a complete folder structure with all the necessary files for a basic static website. With minimal effort, I had a working site that I could preview locally.
